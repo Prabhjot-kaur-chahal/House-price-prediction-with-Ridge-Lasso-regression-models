@@ -10,7 +10,6 @@
 ## Table of Contents
 * [Business Goal](#business-goal)
 * [Technologies Used](#technologies-used)
-* [Code](#code)
 * [Conclusions](#conclusions)
 * [Contact](#contact)
 
